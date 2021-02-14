@@ -3,4 +3,5 @@ First draft of my personal portfolio website. The initial draft is meant for the
 The site includes a home page, an "about me" section, a link to my LinkedIn, and a pdf of my Resume (address and contact information excluded). 
 
 ## Version 1.1 Update
-Added substantial responsivness features to enhance the viewing experience on different screen resolutions and devices. 
+* Added substantial responsivness features to enhance the viewing experience on different screen resolutions, window sizes, and devices. 
+  * Replaced pixel measurements with percentage measurements. 
