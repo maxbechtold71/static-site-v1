@@ -5,3 +5,4 @@ The site includes a home page, an "about me" section, a link to my LinkedIn, and
 ## Version 1.1 Update
 * Added substantial responsivness features to enhance the viewing experience on different screen resolutions, window sizes, and devices. 
   * Replaced pixel measurements with percentage measurements. 
+  * Modified text to shrink when screen crosses a resolution threshold. 
